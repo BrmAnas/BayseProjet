@@ -1,0 +1,23 @@
+# Modèle BERT sauvegardé (trop lourd pour GitHub)
+bert_finetuned.pt
+bert_al.npy
+bert_ap.npy
+bert_acc.txt
+
+# Données générées/locales
+feedback.csv
+movie_metadata_synthetic.csv
+comedy_movies_200.txt
+generate_dataset.py
+
+# Fichiers temporaires
+~$*
+*.tmp
+
+# Claude
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.env
